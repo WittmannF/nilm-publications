@@ -1,0 +1,41 @@
+,Author,Title,Citations,Year,Source
+0, Monitoring,Measurement Challenges in Achieving Energy Monitoring Systems In Buildings,0,0,http://ws680.nist.gov/publication/get_pdf.cfm?pub_id=904372
+1,"Jung, HH Nguyen, S Viswanathan, B Chen, DKY Yau",Demo Abstract: Scalable Load Disaggregation System Using Distributed Electrical Signature Detection,0,2012,http://www.cs.purdue.edu/homes/lans/20061129/publications/jung2012buildsys.pdf
+2,"Aiad, PH Lee",Non-intrusive monitoring of overlapping home appliances using smart meter measurements,0,2017,http://ieeexplore.ieee.org/abstract/document/7935717/
+3,"Man, W Yang, S Xuan, X Du",Thwarting Nonintrusive Occupancy Detection Attacks from Smart Meters,0,2017,https://www.hindawi.com/journals/scn/2017/5350201/abs/
+4,"De Baets, J Ruyssinck, D Deschrijver…",Cepstrum analysis applied on event detection in NILM,0,2016,https://biblio.ugent.be/publication/8159315/file/8159316
+5,"Jain, A Singh",PACMAN: predicting AC consumption minimizing Aggregate eNergy consumption,1,2014,https://repository.iiitd.edu.in/jspui/handle/123456789/168
+6,"G Villanueva, SMG Dumlao…",Appliance recognition system for ILM using AGILASx—Dataset of common appliances in the Philippines,0,2016,http://ieeexplore.ieee.org/abstract/document/7872910/
+7,"Kozlovskiy, S Schöb, MA Sodenkamp",Non-intrusive disaggregation of water consumption data in a residential household.,0,2016,http://cs.emis.de/LNI/Proceedings/Proceedings259/1381.pdf
+8,"Bastami, A Ibrahim",Power monitoring in integrated circuits,0,2014,https://dspace.mit.edu/handle/1721.1/92973
+9,AKS Kondepudi,Applicability of using time series subsequences to study,0,2007,http://www.academia.edu/download/46351425/EnB_Applicability_of_TimeSeries_Subsequence_Mining_to_study_plug_load_appliances.pdf
+0,Yang,Residential Energy Data Analysis Using Green Button Data,0,2014,https://pdfs.semanticscholar.org/8d47/faeb22047e3400944d2e08bc790fb75068b9.pdf
+1, Kao,居家活動用電分配量測系統之研究,0,2013,http://www.airitilibrary.com/Publication/alDetailedMesh?docid=U0001-1308201316421900
+2,由美子， 荻本和彦， 八木田克英,分電盤計測に基づく住宅用電力消費パターン分析手法,0,2013,https://www.jstage.jst.go.jp/article/ieejeiss/133/5/133_1086/_article/-char/ja/
+3,"Alcalá, J Urena, Á Hernández, JJ Garcıa",Análisis no intrusivo de la actividad humana a través de la monitorización del consumo energético,0,0,http://www.ehu.eus/documents/3444171/4484746/135.pdf
+4, Kuo,利用電器使用模型與其電力特徵值之分析建立電力線拓撲資訊,0,2014,http://www.airitilibrary.com/Publication/alDetailedMesh?docid=U0030-0704201512040019
+5,Englert,Strommessung in einer vernetzten Welt. Entwicklung minimalinvasiver Methoden zur feingranularen Approximation von Stromflüssen in intelligenten Umgebungen,0,0,http://tuprints.ulb.tu-darmstadt.de/5674
+6, García,Adaptación y aplicación de la transformada de Hilbert-Huang a sistemas eléctricos: aplicaciones en el estudio de la gestión de la demanda y caracterización de  …,0,2016,http://search.proquest.com/openview/b61c5e6efec4dbfa6ea0f995cb627ec7/1?pq-origsite=gscholar&cbl=2026366&diss=y
+7,L CALVO,"Étude, modélisation et conception d'un système de détection de défauts d'arcs électriques pour l'habitat",0,0,http://docnum.univ-lorraine.fr/public/DDOC_T_2014_0211_LEZAMA_CALVO.pdf
+8,Dalheimer,Energiemanagement für Mietwohnungen mit Open-Source Smart Metern (EMOS),0,2015,https://www.irbnet.de/daten/rswb/15109001837.pdf
+9, Mihailescu,Coordination Mechanisms for Agent-Based Smart Grids,0,2014,https://dialnet.unirioja.es/servlet/tesis?codigo=101472
+0,， 于建成， 姚程， 霍现旭， 田娜， 刘建宇， 姚勋,非侵入式低压配电网短路事故检测及定位方法,0,0,http://www.chinapower.org/CN/article/downloadArticleFile.do?attachType=PDF&id=1783
+1,Tcheukam Siwe,Prosumer planning in the DEZENT context of regenerative power production,0,0,http://e-theses.imtlucca.it/id/eprint/118
+2," Vega, FS Piedrahita, ER Trujillo",MODELO DE GESTIÓN DE ENERGÍA ELÉCTRICA DOMICILIARIA: PROPUESTA PRELIMINAR,0,2015,http://revistas.udistrital.edu.co/ojs/index.php/REDES/article/view/8539
+3,倫， 彭文志,探勘使用者電器使用行為模式,0,2012,https://ir.nctu.edu.tw/handle/11536/50563
+4,， 许鹏,公共建筑间接能耗分项计量方法综述,0,2013,http://a434.tongji.edu.cn/download/%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E9%97%B4%E6%8E%A5%E8%83%BD%E8%80%97%E5%88%86%E9%A1%B9%E8%AE%A1%E9%87%8F%E6%96%B9%E6%B3%95%E7%BB%BC%E8%BF%B0.pdf
+5,Huss,Hybrid Model Approach to Appliance Load Disaggregation: Expressive appliance modelling by combining convolutional neural networks and hidden semi  …,0,0,http://www.diva-portal.org/smash/record.jsf?pid=diva2:881880
+6,， 张建文,基于整数规划的非侵入式电力负荷在线分解,0,2012,http://www.paper.edu.cn/download/downPaper/201202-564
+7,轶， 刘松， 钟潇， 刘鹏,基于差分进化算法的居民用电负荷分解方法,0,2016,http://www.nfdwjs.com/nfdwjs/ch/reader/create_pdf.aspx?file_no=201606006208
+8, MONZANI,MONITORAMENTO NÃO INVASIVO E IDENTIFICAÇÃO DO CONSUMO DE ENERGIA INDIVIDUAL DE CARGAS RESIDENCIAIS,0,0,http://repositorio.unicamp.br/bitstream/REPOSIP/321211/1/Monzani%2C%20Rafael%20Cuerda_D.pdf
+9,才， 熊刚， 余永忠， 黄宇魁， 李畅,智能电网中家域网安全数据汇聚与调度方法研究,0,2013,http://www.cqvip.com/qk/83767x/201312/48539798.html
+0,C Duarte,Sistema não invasivo de monitoramento de consumo de energia elétrica baseado em conjuntos nebulosos,0,2015,http://repositorio.unicamp.br/handle/REPOSIP/260730
+1,龙， 赵宏伟， 豆兴伟， 王传震,基于非入侵式负荷小区用电设备监测技术,0,2014,http://www.cqvip.com/qk/91958x/201401/48438564.html
+2,Nieuwoudt,Optimisation of a residential energy system with an embedded PV source,0,2016,http://scholar.sun.ac.za/handle/10019.1/98860
+3, Ho,利用熱感應之技術測量電器各別用電量及個人用電狀況,0,2012,http://www.airitilibrary.com/Publication/alDetailedMesh?docid=U0001-0607201215131900
+4,연， 윤지원,스마트 기기 환경에서 전력 신호 분석을 통한 프라이버시 침해 위협,0,2015,http://society.kisti.re.kr/sv/SV_svpsbs03V.do?method=download&cn1=JAKO201533678768372
+5,S Finster,Protokolle für privatsphärengerechtes Smart Metering,0,0,https://pdfs.semanticscholar.org/ad2d/04f756da1f362ca24927749a11c669f56bc4.pdf
+6,， 俞会根， 盛军， 向晋， 杨重科,锂离子电池内部短路研究进展,0,2016,http://www.cqvip.com/qk/91137x/201605/669000329.html
+7,幸夫， 上野剛,電気の使い方から独居高齢者を見守るシステム,0,2016,https://www.jstage.jst.go.jp/article/ieejeiss/136/6/136_767/_article/-char/ja/
+8,M do Nascimento,ESTUDO DE TÉCNICAS DE PROGRAMAÇÃO INTEIRA NO PROBLEMA DE MONITORAÇÃO NÃO INTRUSIVA DE CARGAS RESIDENCIAIS,0,2013,http://monografias.poli.ufrj.br/monografias/monopoli10009391.pdf
+9,风， 宣婷婷， 张沛超,基于数据流的非侵入式负荷识别与分类,0,2016,http://www.cqvip.com/qk/91137x/201605/669000318.html

@@ -1,0 +1,261 @@
+,Author,Title,Citations,Year,Source
+0,"Gulati, SS Ram, A Majumdar…",Single point conducted emi sensor with intelligent inference for detecting it appliances,2,2016,http://ieeexplore.ieee.org/abstract/document/7782387/
+1,"Cominola, M Giuliani, D Piga, A Castelletti…",A Hybrid Signature-based Iterative Disaggregation algorithm for Non-Intrusive Load Monitoring,3,2017,http://www.sciencedirect.com/science/article/pii/S030626191631488X
+2, Lawrence,"Hardware and software architecture for non-contact, non-intrusive load monitoring",2,2016,https://dspace.mit.edu/handle/1721.1/105989
+3,"Liszewski, R Łukaszewski, R Kowalik…",Different appliance identification methods in non-intrusive appliance load monitoring,2,2014,https://books.google.com.br/books?hl=en&lr=&id=Gpl7AwAAQBAJ&oi=fnd&pg=PA31&ots=1QrOcsYq6M&sig=eTxvQzbhDf6jK-tl0fyRft21C84
+4,"Bonfigli, M Severini, S Squartini…",Improving the performance of the AFAMAP algorithm for Non-Intrusive Load Monitoring,2,2016,http://ieeexplore.ieee.org/abstract/document/7743809/
+5,"Paradiso, F Paganelli, D Giuli, S Capobianco",Context-based energy disaggregation in smart homes,2,2016,http://www.mdpi.com/1999-5903/8/1/4/htm
+6,"Pereira, NJ Nunes",Low Cost Framework for Non-intrusive Home Energy Monitoring and Research.,2,2012,http://www.academia.edu/download/30294390/pereira_nunes-smartgreens-2012.pdf
+7,"Reddy, K Niranjan, A Swaroopa, V Garg",Plug loads: usage and energy consumption analysis,2,2014,http://ibpsa.org/proceedings/asim2014/025_AsimA3-28-365.pdf
+8,Hassan,Bi-level characterization of manual setup non-intrusive demand disaggregation using enhanced differential evolution,2,2012,https://pdfs.semanticscholar.org/8325/6e8d0ac27ed2007e2a460b245f2199410a8e.pdf
+9,"Tang, K Wu, J Lei, J Tang",A simple and robust approach to energy disaggregation in the presence of outliers,2,2016,http://www.sciencedirect.com/science/article/pii/S2210537916000056
+0,"McCary, Y Xiao",Home area network accountability with varying consumption devices in smart grid,2,2016,http://onlinelibrary.wiley.com/doi/10.1002/sec.1393/full
+1,"Biansoongnern, B Plangklang",Nonintrusive load monitoring (NILM) using an Artificial Neural Network in embedded system with low sampling rate,2,2016,http://ieeexplore.ieee.org/abstract/document/7561398/
+2,"Kalyanaraman, K Whitehouse",An event-based data fusion algorithm for smart cities,2,2015,http://dl.acm.org/citation.cfm?id=2801630
+3,"Singh, M Gulati, A Majumdar",Greedy Deep Disaggregating Sparse Coding,2,2016,http://itra.medialabasia.in/data/Documents/HumanSense/publications/Greedy%20Deep%20Disaggregating%20Sparse%20Coding.pdf
+4,， 杨洪耕， 高云,智能电表家用负荷识别技术综述,3,2011,http://www.cqvip.com/qk/91845x/201106/40639269.html
+5,玲,非侵入式电力负荷分解算法综述,3,2014,http://www.cqvip.com/qk/86275x/201401/48809015.html
+6,욱， 서진수， 왕보현,가정용 전력 모니터링 시스템 및 장치식별 알고리즘 개발,3,2011,http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01673577
+7,伸吉， 江上司， 鈴木達也， 中村久栄…,整数計画法を用いた電気機器の非侵入型稼働状態モニタリング,2,2008,https://www.jstage.jst.go.jp/article/ieejpes/128/11/128_11_1386/_article/-char/ja/
+8,욱， 왕보현,가정용 전력 모니터링을 위한 전력신호 분석 알고리즘 개발,2,2011,http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01758038
+9,"Raabe, M Sonnenschein…",Energieberatung in haushalten auf basis des smartmetering,2,0,http://www.oekologisches-wirtschaften.de/index.php/oew/article/download/1182/1178
+0, Canaes,Sistema alternativo de pagamento de energia elétrica.\'Uma opção nacional de baixo custo\',2,2006,http://www.teses.usp.br/teses/disponiveis/86/86131/tde-01082007-235759/en.php
+1,M do Nascimento,Applications of Deep Learning Techniques on NILM,1,2016,http://lemt.ufrj.br/pdf/pedro.pdf
+2,"Hao, B Tang, Y Wang",On the Balance of Meter Deployment Cost and NILM Accuracy.,1,2015,http://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/download/10899/11027
+3," Mueller, JW Kimball",An Accurate Method of Energy Use Prediction for Systems with Known Composition,1,2016,http://nilmworkshop.org/2016/proceedings/Poster_ID11.pdf
+4,"Adabi, P Manovi, P Mantey",SEADS: A modifiable platform for real time monitoring of residential appliance energy consumption,1,2015,http://ieeexplore.ieee.org/abstract/document/7393703/
+5,"Clark, L Lampe",Single-channel compressive sampling of electrical data for non-intrusive load monitoring,1,2015,http://ieeexplore.ieee.org/abstract/document/7418305/
+6,"Abidin, A Aly, S Cleemput, MA Mustafa",Towards a local electricity trading market based on secure multiparty computation,1,2016,https://securewww.esat.kuleuven.be/cosic/publications/article-2664.pdf
+7," Ibrahim, IH Shanono",ICT for Smart Appliances: Current Technology and Identification of Future ICT Trend,1,2016,http://www.waset.org/publications/10003439
+8,Davies,Method and apparatus for monitoring power consumption,1,2016,https://www.google.com/patents/US9250101
+9, Gillman,Interpreting human activity from electrical consumption data through non-intrusive load monitoring,1,2014,https://dspace.mit.edu/handle/1721.1/90136
+0,Beckel,Scalable and Personalized Energy Efficiency Services with Smart Meter Data,1,0,http://e-collection.library.ethz.ch/eserv/eth:48488/eth-48488-02.pdf
+1,Lange,Disaggregation by state inference a probabilistic framework for non-intrusive load monitoring,1,2016,https://aaltodoc.aalto.fi/handle/123456789/19694
+2, Lahlou,Decentralized signal processing systems with conservation principles,1,2016,https://dspace.mit.edu/handle/1721.1/105946
+3,"Roy, N Pathak, A Misra",AARPA: Combining Mobile and Power-line Sensing for Fine-grained Appliance Usage and Energy Monitoring,1,2015,http://ieeexplore.ieee.org/abstract/document/7264324/
+4,"Egarter, W Elmenreich",EvoNILM: Evolutionary appliance detection for miscellaneous household appliances,1,2013,http://dl.acm.org/citation.cfm?id=2482733
+5,"Simonov, G Chicco, G Zanetto",Knowledge Representation for Event-Driven Metering,1,2015,http://ieeexplore.ieee.org/abstract/document/7185158/
+6,"Benveniste, B Levy, E Fabre, P Le Guernic",A calculus of stochastic systems,1,1994,http://www.springerlink.com/index/fg2g4m747v841578.pdf
+7," Patel, S Gupta, MS Reynolds…",Systems and methods for measuring electrical power usage in a structure and systems and methods of calibrating the same,1,2014,https://www.google.com/patents/US8805628
+8,"Matsumoto, Y Fujimoto, Y Hayashi",Energy disaggregation based on semi-binary nmf,1,2016,http://link.springer.com/chapter/10.1007/978-3-319-41920-6_31
+9,"Novák, M Prokysek",Large smart metering system & security,1,2014,http://ieeexplore.ieee.org/abstract/document/6835272/
+0," Chen, CL Lai, LC Kuo",Method and system for monitoring electrical load of electric devices,1,2012,https://www.google.com/patents/US20140005853
+1,"Egarter, W Elmenreich",Load disaggregation with metaheuristic optimization,1,2015,https://mobile.aau.at/publications/egarter-2015-load_disaggregation_with_metaheuristic_optimization.pdf
+2,"Koo, X Lin, S Bagchi",RL-BLH: Learning-Based Battery Control for Cost Savings and Privacy Preservation for Smart Meters,1,2017,https://engineering.purdue.edu/dcsl/publications/papers/2017/final_smart-grid-privacy_dsn17_cameraready.pdf
+3,"Ridi, C Gisler, J Hennebert",Processing smart plug signals using machine learning,2,2015,http://ieeexplore.ieee.org/abstract/document/7122532/
+4," Patel, TM Robertson, GD Abowd…",Detecting actuation of electrical devices using electrical noise over a power line,1,2016,https://www.google.com/patents/US9250275
+5,"Jacquemod, B Nicolle…",WSN for smart building application,1,2014,http://ieeexplore.ieee.org/abstract/document/6877405/
+6,"Zhang, GG Wang, H Farhangi, A Palizban",Data mining of smart meters for load category based disaggregation of residential power consumption,1,2017,http://www.sciencedirect.com/science/article/pii/S2352467716301278
+7," Prasad, S Semwal",Multi point sensing (MPS): A solution for resolving complexity in NIALM applications for Indian domestic consumers,1,2014,http://ieeexplore.ieee.org/abstract/document/7042066/
+8,Javed,Towards Self-Managing Demand Side Management,1,2013,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.716.1337&rep=rep1&type=pdf
+9, Ferránde,Smart Sensor Design for Power Signal Processing,1,2015,http://link.springer.com/chapter/10.1007/978-3-319-26401-1_36
+0,"Giaconi, D Gunduz, HV Poor",Smart meter privacy with renewable energy and a storage device,1,2017,https://arxiv.org/abs/1703.08390
+1," Fernández, IG Alonso, EZ Casanova",Online identification of appliances from power consumption data collected by smart meters,1,2016,http://link.springer.com/article/10.1007/s10044-015-0487-x
+2,Pereira,Towards Automating the Performance Evaluation of Non-Intrusive Load Monitoring Systems,1,2013,http://www.academia.edu/download/32290317/2013_ICT4S_Final_Proceedings_APPENDIX.pdf#page=16
+3,"Liu, X Ding, N Gu",A generic energy disaggregation approach: What and when electrical appliances are used,1,2015,http://ieeexplore.ieee.org/abstract/document/7395696/
+4," Gillis, WG Morsi",Non-Intrusive Load Monitoring Using Semi-Supervised Machine Learning and Wavelet Design,1,2016,http://ieeexplore.ieee.org/abstract/document/7430361/
+5,"Caruso, M Mecella, A Cerocchi…",Energy management in smart spaces through the oplatform,1,2014,http://ieeexplore.ieee.org/abstract/document/7057150/
+6,"Semwal, RS Prasad, M Singh",Designing compatible hardware platform for implementation of NIALM,1,2014,http://ieeexplore.ieee.org/abstract/document/6828099/
+7,"Guo, CA Bond, A Narayanan","The Adoption of New Smart-Grid Technologies: Incentives, Outcomes, and Opportunities",1,2015,https://books.google.com.br/books?hl=en&lr=&id=igadBgAAQBAJ&oi=fnd&pg=PR1&ots=-r1rmb8-mC&sig=VypXe5PDU2UqTXXXryCP8WDMvjI
+8," Meziane, T Picon, P Ravier…",A measurement system for creating datasets of on/off-controlled electrical loads,2,2016,http://ieeexplore.ieee.org/abstract/document/7555847/
+9,S Pereira,Low cost non-intrusive home energy monitoring,1,2014,http://digituma.uma.pt/handle/10400.13/581
+0,"Piga, A Cominola, M Giuliani, A Castelletti…",A convex optimization approach for automated water and energy end use disaggregation,1,0,https://re.public.polimi.it/retrieve/handle/11311/984718/109685/80662.pdf
+1, McLaughlin,Specification-based Attacks and Defenses in Sequential Control Systems,1,2014,https://etda.libraries.psu.edu/catalog/21556
+2," Bos, W Castryck, I Iliashenko…",Privacy-friendly Forecasting for the Smart Grid using Homomorphic Encryption and the Group Method of Data Handling,1,2017,http://link.springer.com/chapter/10.1007/978-3-319-57339-7_11
+3,"Lu, Y Yang, SK Sharma, P Zambare…",System and method employing a minimum distance and a load feature database to identify electric load types of different electric loads,2,2014,https://www.google.com/patents/US8918346
+4,"Li, S West, G Platt",Power signature-based non-intrusive load disaggregation,1,2013,http://www.inderscienceonline.com/doi/abs/10.1504/IJMIC.2013.055909
+5,"Tang, G Tang, K Wu",MinNet: toward more intelligent smart home energy management systems with fewer sensors,1,2016,http://www.inderscienceonline.com/doi/abs/10.1504/IJSNET.2016.076727
+6,"Fawaz, R Berthier…",A Response Cost Model for Advanced Metering Infrastructures,1,2016,http://ieeexplore.ieee.org/abstract/document/7114342/
+7,Pére,A Review of Classification Problems and Algorithms in Renewable Energy Applications,2,2016,http://www.mdpi.com/1996-1073/9/8/607/htm
+8,"I Aumi, S Gupta, C Pickett, M Reynolds…",A self-calibrating approach to whole-home contactless power consumption sensing,1,2014,http://dl.acm.org/citation.cfm?id=2636087
+9,"Nie, W Yang, L Huang, X Lu",A privacy preserving scheme for change increment of electricity big data base on symmetric cryptography,1,2014,http://ieeexplore.ieee.org/abstract/document/7175784/
+0,"Patsakis, M Clear, P Laird",Private Aggregation with Custom Collusion Tolerance,1,2014,http://link.springer.com/chapter/10.1007/978-3-319-16745-9_5
+1,"Bergés, K Shao",Classifying Electrical Appliance State Transitions from Power Metrics Time-Series,1,2008,https://sites.google.com/site/marioberges/FinalReport10-701mberges-kshaoFinalV.pdf
+2,V Tomás,Inference methods for nonintrusive load monitoring applications,1,2014,https://fenix.tecnico.ulisboa.pt/downloadFile/395146455828/dissertacao.pdf
+3,Yang,A Joint Model of Device Load and User Intention in Load Monitoring,1,2012,http://search.proquest.com/openview/8150e3c2ae0886c5bfc7f3633bfe1cf6/1?pq-origsite=gscholar&cbl=2029951
+4," Mocanu, E Mocanu, PH Nguyen…",Big IoT data mining for real-time energy disaggregation in buildings,1,2016,http://ieeexplore.ieee.org/abstract/document/7844820/
+5, Tabatabaei,Decomposition Techniques for Non-intrusive Home Appliance Load Monitoring,1,2014,https://era.library.ualberta.ca/files/sn009z54r
+6,Klein,Non-Intrusive Information Sources for Activity Analysis in Ambient Assisted Living Scenarios,1,2015,http://www.theses.fr/2015MULH8932
+7,"Saha, J Bera, G Sarkar",Identification of running household appliances by a state-of-the-art energy meter for a change in consumption pattern,1,2015,http://ieeexplore.ieee.org/abstract/document/7060219/
+8,"Klein, D Benyoucef, J Merckle…",Analysis of fingerprints of electric appliances as starting point for an appliance characteristics catalog,1,2014,http://ieeexplore.ieee.org/abstract/document/7049021/
+9,"Jung, HH Nguyen, S Viswanathan, B Chen…",Scalable load disaggregation system using distributed electrical signature detection,1,2012,http://dl.acm.org/citation.cfm?id=2422566
+0,"Tamburini, M Rossi, D Brunelli",Electronic and ICT Solutions for Smart Buildings and Urban Areas,1,2015,https://books.google.com.br/books?hl=en&lr=&id=PoYfCgAAQBAJ&oi=fnd&pg=PA165&ots=CorouRU7XH&sig=Sk4u2CKPxDkOKrlc9-C5eyD2YVI
+1,"K Mantha, CC Menassa…",A taxonomy of data types and data collection methods for building energy monitoring and performance simulation,1,2016,http://www.tandfonline.com/doi/abs/10.1080/17512549.2015.1103665
+2,"Ambrosin, H Hosseini, K Mandal…",Despicable me (ter): Anonymous and fine-grained metering data reporting with dishonest meters,1,2016,http://ieeexplore.ieee.org/abstract/document/7860482/
+3,Paverd,Trustworthy remote entities in the smart grid,1,2013,https://ora.ox.ac.uk/objects/uuid:c523d3cb-2360-42f3-b0e2-725cc0f86b00/datastreams/ATTACHMENT01
+4,"Liu, W Luan, Y Yu",A Fully Unsupervised Appliance Modelling Framework for NILM,1,2016,http://nilmworkshop.org/2016/proceedings/Paper_ID26.pdf
+5," Cooke, FK Reed, LJ Prince…",An efficient sparse FFT algorithm with application to signal source separation and 2D virtual image feature extraction,1,2016,http://ieeexplore.ieee.org/abstract/document/7795359/
+6,"Gillis, WG Morsi",Non-intrusive load monitoring using orthogonal wavelet analysis,1,2016,http://ieeexplore.ieee.org/abstract/document/7726786/
+7," You, HL Kao, BJ Ho, NC Chen…",Thermalprobe: Exploring the use of thermal identification for per-user energy metering,1,2014,http://ieeexplore.ieee.org/abstract/document/7059721/
+8," Borin, CH Barriquello…",A novel approach for home appliances identification using vector projection length and Stockwell transform,1,2015,http://ieeexplore.ieee.org/abstract/document/7420171/
+9," Tran, GD Lee, TX Pham, GJ Kim…",Identification of In-Home Appliances Through Analysis of Current Consumption,1,2016,http://dl.acm.org/citation.cfm?id=2857562
+0,Alshareef,Analysis and techniques for non-intrusive appliance load monitoring.,1,0,http://ir.library.dc-uoit.ca/handle/10155/485
+1," Nair, GG Devadhas",Design of nonintrusive load meters with current and temperature calibration,1,2015,http://ieeexplore.ieee.org/abstract/document/7475395/
+2,"ZHOU, Y CHEN, Z YOU",Infrastructure-mediated sensing based home appliances monitoring system using the EMI characteristics,1,2014,http://www.ejournal.org.cn/Jweb_cje/EN/article/downloadArticleFile.do?attachType=PDF&id=8471
+3,"Rowe, A Goode, E Goldman, U Maurer, M Buevich…",A resource-centric design paradigm for scalable sensor networks,1,2010,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.588.4739
+4, Jones,"An investigation of the socio-economic, technical and appliance related factors affecting high electrical energy demand in UK homes",1,2013,https://dspace.lboro.ac.uk/dspace-jspui/handle/2134/14477
+5,"Bojanić, S Đorđević, M Dimitrijević…",Efficient nonintrusive distinguisher of small nonlinear electrical loads,1,2016,http://ieeexplore.ieee.org/abstract/document/7521220/
+6,"Abidin, A Aly, S Cleemput, MA Mustafa",An MPC-based Privacy-Preserving Protocol for a Local Electricity Trading Market,1,2016,http://link.springer.com/chapter/10.1007/978-3-319-48965-0_40
+7,"Srinivasan, C Anandan, SAK Jain…",Low-cost non-intrusive device identification system,1,2016,http://ieeexplore.ieee.org/abstract/document/7791140/
+8,"Dufour, D Genoud, G Rizzo, AJ Jara…",Test set validation for home electrical signal disaggregation,1,2014,http://ieeexplore.ieee.org/abstract/document/6975499/
+9,"Alizadeh, A Scaglione, A Applebaum…",Scalable and anonymous modeling of large populations of flexible appliances,1,2014,https://arxiv.org/abs/1404.1958
+0,"Held, F Laasch, DO Abdeslam…",Frequency invariant transformation of periodic signals (FIT-PS) for signal representation in NILM,1,2016,http://ieeexplore.ieee.org/abstract/document/7793617/
+1,"Tang, K Wu",A framework for occupancy-aided energy disaggregation.,1,2016,http://webhome.cs.uvic.ca/~guoming/publications_gmtang/eenergy16_guomingtang.pdf
+2,"Dufour, D Genoud, A Jara, J Treboux…",A non-intrusive model to predict the exible energy in a residential building,1,2015,http://ieeexplore.ieee.org/abstract/document/7122531/
+3,Pezeshkfar,Low cost framework for non-intrusive load monitoring (NILM) to monitor human behavioral pattern,1,2013,https://mospace.umsystem.edu/xmlui/handle/10355/43019
+4,"Vishwakarma, SS Ram",Classification of multiple targets based on disaggregation of Micro-Doppler signatures,1,2016,http://ieeexplore.ieee.org/abstract/document/7931360/
+5,"Kong, ZY Dong, J Ma, D Hill…",An Extensible Approach for Non-Intrusive Load Disaggregation with Smart Meter Data,1,2016,http://ieeexplore.ieee.org/abstract/document/7750555/
+6,"Tang, K Wu, J Lei",Semi-intrusive load monitoring for large-scale appliances,1,2014,https://pdfs.semanticscholar.org/f579/4f8098a3f00240c0b209e67c582da5f83b20.pdf
+7,"Donciu, A Ardeleanu…",Multi-feature load detection algorithm,1,2013,https://www.scientific.net/AMR.772.448
+8,De Poli,Self-learning algorithm for energy disaggregation,1,2012,http://tesi.cab.unipd.it/40183/
+9," Stercke, A Mijic, J Keirstead",A Review of Urban Water-energy Linkages in End-use: A Call for Joint Demand Studies.,1,2016,http://imsear.li.mahidol.ac.th/handle/123456789/177914
+0,"Kelly, N Batra, O Parson, H Dutta…",Demo abstract: NILMTK v0. 2: A Non-intrusive Load Monitoring Toolkit for Large Scale Data Sets,1,2014,https://arxiv.org/abs/1409.5908
+1,Pére,An Innovator Nonintrusive Method for Disaggregating and Identifying Two Simultaneous Household Loads.,1,2014,https://books.google.com.br/books?hl=en&lr=&id=Sim5BQAAQBAJ&oi=fnd&pg=PA297&ots=rQ01GX89pY&sig=wk08q0IZA0bPgXnGxyXFQY9fPa8
+2,"Patel, MS Reynolds",Whole structure contactless power consumption sensing,1,2015,https://www.google.com/patents/US8930152
+3,"Rodriguez, I González, E Zalama",Identification of electrical devices applying big data and machine learning techniques to power consumption data,1,2014,http://link.springer.com/chapter/10.1007/978-3-319-02332-8_4
+4, Cotta,Machinery diagnostics and characterization through electrical sensing,1,2015,https://dspace.mit.edu/handle/1721.1/100144
+5,"Semwal, RS Prasad, P Juneja",Identifying Appliances using NIALM with Minimum Features,1,2014,http://search.proquest.com/openview/a6072c20ff9c84b9d5904224ab55bc7d/1?pq-origsite=gscholar&cbl=1686344
+6," Girmay, C Camarda",Simple Event Detection and Disaggregation Approach for Residential Energy Estimation,1,2016,http://nilmworkshop.org/2016/proceedings/Poster_ID12.pdf
+7,"Knirsch, G Eibl, D Engel",Error-resilient Masking Approaches for Privacy Preserving Data Aggregation,1,2016,http://ieeexplore.ieee.org/abstract/document/7748572/
+8,"Agarwal, V Munigala, K Ramamritham",Observability: A principled approach to provisioning sensors in buildings,1,2016,http://dl.acm.org/citation.cfm?id=2993427
+9, L,Electric load signature analysis for home energy monitoring system,1,2012,http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=E1FLA5_2012_v12n3_193
+0,Parson,Could not catch title,1,2011,Look manually at: https://scholar.google.com/scholar?start=820&q=non+intrusive+load+monitoring
+1,Pereira,Towards automated non-intrusive load monitoring performance evaluation,1,2013,https://pdfs.semanticscholar.org/7c99/0ad85ec87010c97cc73fbcb3b0ea3ff483a5.pdf
+2,Jin,An Active Learning Framework for Non-Intrusive Load Monitoring,1,2016,http://nilmworkshop.org/2016/slides/XinJin.pdf
+3,Ahmed,Applying Big Data analytics for energy efficiency.,1,2014,https://aaltodoc.aalto.fi/handle/123456789/13899
+4,"McDaniel, W Aiello",Protecting consumer privacy from electric load monitoring,1,2011,https://pdfs.semanticscholar.org/4d51/f1859d64880a90777e734de7377a616dc07b.pdf
+5,"Valovage, M Gini",Label correction and event detection for electricity disaggregation,1,2017,http://dl.acm.org/citation.cfm?id=3091266
+6,"Liu, W Luan, Y Yu",Dynamic time warping based non-intrusive load transient identification,1,2017,http://www.sciencedirect.com/science/article/pii/S0306261917302209
+7,"Lin, Z Wang",Selective control model of DSM in residential area based on load monitoring system,1,2011,http://ieeexplore.ieee.org/abstract/document/6010069/
+8,"Li, A Khisti, A a Mahajan",Privacy preserving rechargeable battery policies for smart metering systems,1,0,http://e-collection.library.ethz.ch/eserv/eth:49032/eth-49032-01.pdf
+9,"Sala, K Kampouropoulos, MD Prieto…",Disaggregation of HVAC load profiles for the monitoring of individual equipment,1,2016,http://ieeexplore.ieee.org/abstract/document/7733568/
+0,"Liu, X Wang, Y Liu, S Cui",Resolution-Enhanced Harmonic and Interharmonic Measurement for Power Quality Analysis in Cyber-Physical Energy System,1,2016,http://www.mdpi.com/1424-8220/16/7/946/htm
+1,Suzdalenko,Research and Development of Control Means for Intelligent Household Electrical Grids,1,2013,https://ortus.rtu.lv/science/en/publications/16846/summary.pdf
+2, Salthouse,Improvements to the nonintrusive load monitor,1,2000,https://dspace.mit.edu/bitstream/handle/1721.1/86508/46895001-MIT.pdf?sequence=2
+3," Lai, IJ Tsai, CY Chiu, CF Lai",Non-Intrusive Load Monitoring applied in energy efficiency of the smart manufacturing industry: A case of air-conditioner,1,2014,http://ieeexplore.ieee.org/abstract/document/6899467/
+4,"Czarnek, K Morton, L Collins…",Performance comparison framework for energy disaggregation systems,1,2015,http://ieeexplore.ieee.org/abstract/document/7436341/
+5,"Nikolaev, Y Rangelov, A Marinov",Algorithm for indirect load recognition in domestic power consump-tion,1,2013,https://www.researchgate.net/profile/Nikolay_Nikolaev2/publication/250927305_Algorithm_for_indirect_load_recognition_in_domestic_power_consumption/links/00b7d51ee44dfacd38000000.pdf
+6," Madrazo, JE Mott, MR Keim…",Calibrating algorithms for determining electrical load and lifestyle characteristics,1,2015,https://www.google.com/patents/US9081374
+7," Borin, CH Barriquello, A Campos",Approach for home appliance recognition using vector projection length and Stockwell transform,1,2015,http://digital-library.theiet.org/content/journals/10.1049/el.2015.2385
+8,"Kumar, A Braeken, A Gurtov, J Iinatti…",Anonymous Secure Framework in Connected Smart Home Environments,1,2017,http://ieeexplore.ieee.org/abstract/document/7803595/
+9,Li,Information theoretic privacy in smart metering systems using rechargeable batteries,1,2016,http://search.proquest.com/openview/29beda93863c39bf4d711654c424cbfe/1?pq-origsite=gscholar&cbl=18750&diss=y
+0,"Bernard, M Marx",Unsupervised Learning Algorithm using multiple Electrical Low and High Frequency Features for the task of Load Disaggregation,1,2016,http://nilmworkshop.org/2016/proceedings/Poster_ID17.pdf
+1,"Jo, K Kim",Portable wireless smart meter controlled by a smart phone for intelligent energy management,1,2016,http://gvschoolpub.org/journals/IJPDCSD/vol3_2016/1.pdf
+2,"Marwah, M Arlitt, C Hoover…",Exploratory analysis of aggregate power metrics in data centers,1,2010,http://proceedings.asmedigitalcollection.asme.org/pdfaccess.ashx?resourceid=5297301&pdfsource=13
+3,"Alshareef, WG Morsi",Application of wavelet-based ensemble tree classifier for non-intrusive load monitoring,1,2015,http://ieeexplore.ieee.org/abstract/document/7379983/
+4,"Kong, Y Xu, ZY Dong, DJ Hill…",An extended prototypical smart meter architecture for demand side management,1,2015,http://ieeexplore.ieee.org/abstract/document/7281873/
+5,"Iksan, SH Supangkat",Adaptive non-intrusive Load Monitoring model using Bayesian learning,1,2014,http://ieeexplore.ieee.org/abstract/document/7013179/
+6,"Figueiredo, B Ribeiro…",Exploring the performance of non-negative multi-way factorization for household electrical seasonal consumption disaggregation,1,2014,http://ieeexplore.ieee.org/abstract/document/6889809/
+7," Haq, HA Jacobsen",A Step towards Advanced Metering for the Smart Grid: A Survey of Energy Monitors,1,2016,https://arxiv.org/abs/1607.07780
+8,"Dinesh, RI Godaliyadda, MPB Ekanayake…",Non-intrusive load monitoring based on low frequency active power measurements,1,2016,http://orca.cf.ac.uk/id/eprint/88736
+9,Du,Advanced classification and identification of plugged-in electric loads,1,2013,https://smartech.gatech.edu/handle/1853/50321
+0,楼， 于华涛， 曲朝阳,面向家庭用户的用电负荷分解方法,1,2015,http://www.cqvip.com/qk/95191a/201504/665361989.html
+1,Benaouda,La communication sans fil dans un réseau électrique intelligent (smart grid): méthodologie de développement,1,2013,http://www.archipel.uqam.ca/id/eprint/5680
+2, Monzani,Avaliação de distúrbios elétricos no monitoramento de cargas residenciais,1,2015,https://sites.google.com/a/dee.ufcg.edu.br/gse/anais-xi-cbqee/139488_1.pdf
+3,"Łukaszewski, K Liszewski…",Metody identyfikacji odbiorników w systemach monitorowania zużycia energii elektrycznej,1,2013,http://yadda.icm.edu.pl/baztech/session.action?userAction=property&parameterName=search%2FitemsPerPage&parameterValue=100&currentUrl=%2Fbaztech%2Felement%2Fbwmeta1.element.baztech-56ecf7ba-687a-4de6-a310-4c87f24cff6f&currentApplicationPath=%2Felement%2Fbwmeta1.element.baztech-56ecf7ba-687a-4de6-a310-4c87f24cff6f&selectResultsNumber=100
+4,， 栾文鹏,基于负荷分解的用电数据云架构方案及应用场景,1,2016,http://www.cqvip.com/qk/91996x/201603/668153424.html
+5,EP RODRIGUES,RECONHECIMENTO DE CARGAS ELÉTRICAS MONOFÁSICAS NÃO-LINEARES ATRAVÉS DA DECOMPOSIÇÃO WAVELET E DE REDES NEURAIS  …,1,2009,http://saturno.unifei.edu.br/bim/0034089.pdf
+6,"Greveler, B Justus, D Löhr, L für I",Identifikation von Videoinhalten uber granulare Stromverbrauchsdaten,1,0,https://134.147.101.39/media/nds/veroeffentlichungen/2012/07/24/GrJuLo_Smartmeter.pdf
+7,"D Azzini, LCP da Silva, JF Fardin, LE de Potência…",Detecção de Eventos Baseada em Variância e Desvio Padrão para monitoramento não intrusivo,1,2014,http://www.swge.inf.br/CBA2014/anais/PDF/1569912157.pdf
+8,Jegundo,Development and monetization of an energy data and analytics platform,1,2012,https://estudogeral.sib.uc.pt/handle/10316/25202
+9, Bacurau,Medidor de energia inteligente para discriminação de consumo por aparelho através de assinatura de cargas,1,2014,http://repositorio.unicamp.br/handle/REPOSIP/258975
+0,， 杨洪耕,基于明可夫斯基距离的家用负荷分类计量,1,2013,http://www.cqvip.com/qk/92179x/201305/46001495.html
+1,Pihala,Could not catch title,1,0,Look manually at: https://scholar.google.com/scholar?start=860&q=non+intrusive+load+monitoring
+2,"Walz, Y Schröder",A privacy-preserving system architecture for applications raising the energy efficiency,0,2016,http://ieeexplore.ieee.org/abstract/document/7684718/
+3,"Aswathi, MJ Babu, V Sowmya, KP Soman",Smart Meter Data Security based on Cosine Transform and Chaotic Theory,0,0,https://www.researchgate.net/profile/Sowmya_Vishvanathan/publication/285430634_Smart_meter_data_security_based_on_cosine_transform_and_chaotic_theory/links/57296f0a08ae057b0a034453.pdf
+4,"Simonov, G Chicco, G Zanetto",Event-Driven Energy Metering: Principles and Applications,0,2017,http://ieeexplore.ieee.org/abstract/document/7875140/
+5,"Kurczveil, P Diekhake, J Liu, E Schnieder",Consumer load measurement in automated buildings,0,2014,http://www.sciencedirect.com/science/article/pii/S0263224113006052
+6,"Meng, XJ Zeng, Y Zhang, CJ Dent, D Gong",An Integrated Optimization+ Learning Approach to Optimal Dynamic Pricing for the Retailer with Multi-type Customers in Smart Grids,0,2016,https://arxiv.org/abs/1612.05971
+7,"Jazizadeh, J Wang",Artificial Versus Natural Light Source Identification with Light Intensity Sensors for Energy Monitoring,0,2016,http://www.sciencedirect.com/science/article/pii/S1877705816301308
+8," Babu, V Sowmya, KP Soman",Fast Fourier Transform and Nonlinear Circuits Based Approach for Smart Meter Data Security,0,2015,http://www.sciencedirect.com/science/article/pii/S2212017315002595
+9,Ng， 吳國基,Optimal planning and management of stochastic demand and renewable energy in smart power grid,0,2012,https://hub.hku.hk/handle/10722/184242
+0,Seshadri,"Design, analysis and experimental verification of a smart power socket",0,2016,http://search.proquest.com/openview/cfd36c7a34268d51d41ee057f46cba24/1?pq-origsite=gscholar&cbl=18750&diss=y
+1,"Bonfigli, E Principi, S Squartini…",User-aided footprint extraction for appliance modelling in Non-Intrusive Load Monitoring,0,2016,http://ieeexplore.ieee.org/abstract/document/7849843/
+2,"Han, U Topcu, GJ Pappas",Event-based information-theoretic privacy: A case study of smart meters,0,2016,http://ieeexplore.ieee.org/abstract/document/7525224/
+3," Liu, L Nie",A Functional Sensing Model and a Case Study in Household Electricity Usage Sensing,0,2014,http://search.proquest.com/openview/cf30d1917d58b0edd573bb4d2b2da4a8/1?pq-origsite=gscholar&cbl=326258
+4,"Alcalá, J Ureña, Á Hernández, D Gualda",Symbolic Localization using NILM from only Smart Meter Data,0,0,http://www3.uah.es/ipin2016/usb/app/descargas/197_WIP.pdf
+5,"Li, A Khisti, A Mahajan",Information-Theoretic Privacy for Smart Metering Systems with a Rechargeable Battery,0,2015,https://arxiv.org/abs/1510.07170
+6,Chen,Investigating the human behavior side of building energy efficiency,0,2013,http://search.proquest.com/openview/ff2fa2fbc8bf30295a23ddd328b29ebb/1?pq-origsite=gscholar&cbl=18750&diss=y
+7," Rao, D Ravichandran, K Mahesh",Non-Intrusive Load Monitoring and Analytics for Device Prediction,0,2016,http://www.iaeng.org/publication/IMECS2016/IMECS2016_pp132-136.pdf
+8,Fiol Arguimbau,Algorithms for energy disaggregation,0,2016,https://upcommons.upc.edu/handle/2117/89937
+9, Jacobsen,NoFaRe: A Non-Intrusive Facility Resource Monitoring System,0,2016,https://books.google.com.br/books?hl=en&lr=&id=qh5aCwAAQBAJ&oi=fnd&pg=PA59&ots=ScJzKfLMFm&sig=VL9IK4W_jjZeqCl19-LFAptGByk
+0," Cortes, Y Jimenez, CA Duarte",Reasoner design based on HYPO for classification of lighting loads,0,2016,http://ieeexplore.ieee.org/abstract/document/7743336/
+1,"Giri, M Berges",Virtual metering of electrical appliances through analysis of data from contactless sensing,0,2015,http://ieeexplore.ieee.org/abstract/document/7418215/
+2,"Zhang, Y Liu, G Chen, X He, X Guo",Assessment Metrics for Unsupervised Non-intrusive Load Disaggregation Learning Algorithms,0,2014,http://link.springer.com/chapter/10.1007/978-3-642-54927-4_19
+3,"Jonsson, R Santa Margarita",Could not catch title,0,0,Look manually at: https://scholar.google.com/scholar?start=880&q=non+intrusive+load+monitoring
+4,NA,Could not catch title,0,0,Look manually at: https://scholar.google.com/scholar?start=880&q=non+intrusive+load+monitoring
+5,"Kahl, A Ul Haq, T Kriechbaumer…",A Comprehensive Feature Study for Appliance Recognition on High Frequency Energy Data,0,2017,http://dl.acm.org/citation.cfm?id=3077845
+6,Temneanu,Appliance characterization based on spectral components analysis,0,2014,http://ieeexplore.ieee.org/abstract/document/6970001/
+7,"Holmegaard, MB Kjærgaard",Towards NILM for Industrial Settings,0,2015,http://dl.acm.org/citation.cfm?id=2770943
+8, Chen,Unobtrusive Sensing Technologies for Supporting Remote Monitoring in the Home,0,2016,https://digital.lib.washington.edu/researchworks/handle/1773/35571
+9," Bouhouras, PA Gkaidatzis, KC Chatzisavvas…",Load Signature Formulation for Non-Intrusive Load Monitoring Based on Current Measurements,0,2017,http://www.mdpi.com/1996-1073/10/4/538/htm
+0,HANUS,NILM-based algorithm for load and degradation monitoring,0,0,http://radio.feld.cvut.cz/conf/poster/poster2016/proceedings/Section_EI/EI_031_Hanus.pdf
+1,"Srinivasarengan, YG Goutam…",A Knowledge Based Approach for Disaggregation of Low Frequency Consumption Data,0,2014,http://link.springer.com/chapter/10.1007/978-3-319-04960-1_8
+2,Gentil,Monitoring and Characterization of Miscellaneous Electrical Loads in a Large Retail Environment,0,2014,http://www.nrel.gov/docs/fy14osti/60668.pdf
+3,"Kim, H Kim",Classification performance using gated recurrent unit recurrent neural network on energy disaggregation,0,2016,http://ieeexplore.ieee.org/abstract/document/7860885/
+4," Hunt, D Rajendran, M Nikora…",Off-the-shelf Non-Intrusive Load Monitoring Devices Utilised in a Low Activity Detection Service,0,2016,http://researcharchive.wintec.ac.nz/4430/
+5, McLaughlin,The load leveling approach to removing appliance features from home electricity usage profiles,0,2014,http://search.proquest.com/openview/4ec025c035c9e46ea9cb5d3c36a6652f/1?pq-origsite=gscholar&cbl=18750&diss=y
+6,"D Azzini, LCP da Silva",Using the Energy Error to Improve the Performance of Unsupervised Approach in Non-Intrusive Load Monitoring,0,0,http://www.dca.ufrn.br/eventos/AnaisSBSE2016/PDF/SBSE2016-0175_033443.pdf
+7,"Reinhardt, D Reinhardt",Detecting anomalous electrical appliance behavior based on motif transition likelihood matrices,0,2016,http://ieeexplore.ieee.org/abstract/document/7778840/
+8,Ramanathan,Smart Energy: Electricity Usage and Demand-Side Management in Households,0,0,https://pdfs.semanticscholar.org/15f0/4aa4da8a2994b656df68ca165f72031900fd.pdf
+9,"Shan, H Zhou, S Liu, P Liu",Residential electricity load decomposition method based on maximum a posteriori probability,0,2017,http://aip.scitation.org/doi/abs/10.1063/1.4982407
+0,"Gan, B Yin, Y Cong",A non-intrusive load identification method based on transient event detection,0,2016,https://books.google.com.br/books?hl=en&lr=&id=kqidDQAAQBAJ&oi=fnd&pg=PA223&ots=Mb1dlYnbHl&sig=NWB5LE0MC28V2xY8JlMw-kVFDqc
+1,"Li, S Dick",Whole-house Non-Intrusive Appliance Load Monitoring via multi-label classification,0,2016,http://ieeexplore.ieee.org/abstract/document/7727545/
+2,"Minou, E Kaskantiri, GD Stamoulis",Discovering the Right Incentives for Demand Response Programs,0,2015,http://dl.acm.org/citation.cfm?id=2768519
+3," Chang, CF Lai, CC Chuang…",Correlation between use time of machine and decline curve for emerging enterprise information systems,0,2017,http://www.tandfonline.com/doi/abs/10.1080/17517575.2017.1301558
+4,"Zou, L Qian, J Attia, L Xie",Optimization of Home Energy Usage by Intelligently Charging/Discharging EV/PHEV,0,2012,http://ieeexplore.ieee.org/abstract/document/6519595/
+5, Heiselberg,CLIMA 2016-proceedings of the 12th REHVA World Congress,0,2016,http://vbn.aau.dk/files/233774195/paper_273.pdf
+6,You,A statistical inference framework for finding recurring patterns in large data with applications to energy management,0,2014,http://ir.library.oregonstate.edu/xmlui/handle/1957/50023
+7,"Kravets, V Kravets, O Burov","Process Modeling for Energy Usage in"" Smart House"" System with a Help of Markov Discrete Chain",0,0,https://hal.archives-ouvertes.fr/hal-01508638/
+8," Nguyen, E Dekneuvel, G Jacquemod…",Development of a real-time non-intrusive appliance load monitoring system: An application level model,0,2017,http://www.sciencedirect.com/science/article/pii/S0142061516311437
+9,"Kudo, Y Morioka, H Hongo, H Sakuma","Electric power measurement system, electric power measurement method, and information processing device",0,2016,https://www.google.com/patents/US9513141
+0," Khan, N Arbab",Load Management of Power System Using Diversified Demands in Pakistan,0,0,http://iieng.org/images/proceedings_pdf/2146E1113086.pdf
+1," Chen, CL Lai, H Chen, LC Kuo…",LocalSense: An Infrastructure-Mediated Sensing Method for Locating Appliance Usage Events in Homes,0,2013,http://ieeexplore.ieee.org/abstract/document/6808242/
+2,"Gallardo, C Lazo, J Mardones",An initial energy disaggregation technique for smart metering and detection of elevators under the vision of the Internet of Things,0,2015,http://ieeexplore.ieee.org/abstract/document/7404682/
+3,"Wu, L Han, Z Wang, B Qi",A nonintrusive fast residential load identification algorithm based on frequency‐domain template filtering,0,2017,http://onlinelibrary.wiley.com/doi/10.1002/tee.22425/full
+4,"Liao, P Srinivasan, D Formby…",Di-PriDA: Differentially Private Distributed Load Balancing Control for the Smart Grid,0,2017,http://ieeexplore.ieee.org/abstract/document/7954704/
+5,"Klemenjak, P Goldsborough",Non-Intrusive Load Monitoring: A Review and Outlook,0,2016,https://arxiv.org/abs/1610.01191
+6,"Lange, M Bergés",BOLT: Energy Disaggregation by Online Binary Matrix Factorization of Current Waveforms,0,2016,http://dl.acm.org/citation.cfm?id=2993581
+7,Lahoti,Privacy-Preserving Vehicle Miles Traveled (PPVMT) tax,0,2014,https://www.ideals.illinois.edu/handle/2142/50480
+8," Min, T An, S Lee, I Song",Non-intrusive Appliance Load Monitoring with Feature Extraction from Higher Order Moments,0,2013,http://ieeexplore.ieee.org/abstract/document/6717331/
+9,Sadinezhad,Could not catch title,0,2012,Look manually at: https://scholar.google.com/scholar?start=910&q=non+intrusive+load+monitoring
+0,Kruglick,Device usage message generator indicative of power consumption of an electronic device,0,2017,https://www.google.com/patents/US9575534
+1,"Hopf, M Sodenkamp, I Kozlovskiy",ENERGY DATA ANALYTICS FOR IMPROVED RESIDEN-TIAL SERVICE QUALITY AND ENERGY EFFICIENCY,0,2016,http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1047&context=ecis2016_rip
+2,Hu,Privacy-Preserving and Secure Cryptographic Schemes for Wireless Applications,0,2016,http://search.proquest.com/openview/477813a433e40b5cd4fd8f8f74e4d707/1?pq-origsite=gscholar&cbl=18750&diss=y
+3,"Gupta, A Majumdar",Handling Missing Data and Outliers in Energy Disaggregation,0,2017,http://itra.medialabasia.in/data/Documents/HumanSense/publications/Handling%20Missing%20Data%20and%20Outliers%20in%20Energy%20Disaggregation.pdf
+4," Hui, T Logenthiran, WL Woo",Non-Intrusive Appliance Load Monitoring and Identification for smart home,0,2016,http://ieeexplore.ieee.org/abstract/document/7584198/
+5,"N SN, AR Lua",Decentralized Energy Demand Regulation in Smart Homes,0,2017,http://ieeexplore.ieee.org/abstract/document/7962194/
+6,Kruglick,Smart power background to validate user,0,2016,https://www.google.com/patents/US9306963
+7, Chang,Non-intrusive fault identification of power distribution systems in intelligent buildings based on power-spectrum-based wavelet transform,0,2016,http://www.sciencedirect.com/science/article/pii/S0378778816305382
+8,Ameri Sianaki,Intelligent Decision Support System for Energy Management in Demand Response Programs and Residential and Industrial Sectors of the Smart Grid,0,2015,https://espace.curtin.edu.au/handle/20.500.11937/1358
+9," Đorđevic, M Dimitrijević…",A NON-INTRUSIVE IDENTIFICATION OF HOME APPLIANCES USING ACTIVE POWER AND HARMONIC CURRENT,0,2016,http://casopisi.junis.ni.ac.rs/index.php/FUElectEnerg/article/view/1893
+0, Kipreos,Nonintrusive load identification & monitoring: techniques and applications for smart meters,0,2011,https://repositorio.uc.cl/handle/11534/2953
+1," Zala, AR Abhyankar",A novel approach to design time of use tariff using load profiling and decomposition,0,2014,http://ieeexplore.ieee.org/abstract/document/7042027/
+2," Mueller, JW Kimball",Accurate Energy Use Estimation for Nonintrusive Load Monitoring in Systems of Known Devices,0,2016,http://ieeexplore.ieee.org/abstract/document/7605545/
+3," Kement, H Gultekin, B Tavli, T Girici…",Comparative Analysis of Load Shaping Based Privacy Preservation Strategies in Smart Grid,0,2017,http://ieeexplore.ieee.org/abstract/document/7956260/
+4," Maguire, K Yogeeswaran",System and method for monitoring electrical power usage in an electrical power infrastructure of a building,0,2016,https://www.google.com/patents/US9291694
+5,"Dalén, J Krämer",Towards a user-centered feedback design for smart meter interfaces to support efficient energy-use choices: A design science approach,0,2016,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2918825
+6,"Wang, F Jazizadeh",Towards Light Intensity Assisted Non-Intrusive Electricity Disaggregation,0,2017,http://ascelibrary.org/doi/abs/10.1061/9780784480830.023
+7,"Sadeghianpourhamami, J Ruyssinck…",Comprehensive Feature Selection for Appliance Classification in NILM,0,2017,http://www.sciencedirect.com/science/article/pii/S0378778817314366
+8,"Hong, S Wang, Z Huang",Efficient Energy Consumption Scheduling: Towards Effective Load Leveling,0,2017,http://www.mdpi.com/1996-1073/10/1/105/htm
+9,"Wei, B Yin, Z Zhu",Noise Filtering Design of Non-intrusive Electrical Monitoring System,0,2017,https://www.researchgate.net/profile/Zhicheng_Zhu3/publication/312512612_Noise_Filtering_Design_of_Non-intrusive_Electrical_Monitoring_System/links/59196e154585159b1a49963b/Noise-Filtering-Design-of-Non-intrusive-Electrical-Monitoring-System.pdf
+0,"Azaza, F Wallin",Finite State Machine Household's Appliances Models for Non-intrusive Energy Estimation,0,2017,http://www.sciencedirect.com/science/article/pii/S1876610217306628
+1,"Mehra, R Ram, C Vergara","A novel application of machine learning techniques for activity-based load disaggregation in rural off-grid, isolated solar systems",0,2016,http://ieeexplore.ieee.org/abstract/document/7857308/
+2,Jazizadeh,Building Energy Monitoring Realization: Context-Aware Event Detection Algorithms for Non-Intrusive Electricity Disaggregation,0,2015,http://ascelibrary.org/doi/abs/10.1061/9780784479827.085
+3,"Dufour, D Genoud, B Ladevie…",Economic interest of heating and hot water prediction system for residential district,0,2016,http://ieeexplore.ieee.org/abstract/document/7471305/
+4,"Khalid, A Mohamed, H Shareef",Nonintrusive Load Monitoring using TT-Transform and Neural Networks.,0,2016,http://ijssst.info/Vol-17/No-41/paper10.pdf
+5,Chen,Efficient Algorithms for Mining Large Spatio-Temporal Data,0,2012,http://search.proquest.com/openview/f8b0369c8694171df1c5bd985a4cf1a4/1?pq-origsite=gscholar&cbl=18750&diss=y
+6,"Bacher, PA de Sain",Non-parametric method for separating domestic hot water heating spikes and space heating,0,2016,http://www.sciencedirect.com/science/article/pii/S0378778816307332
+7,Bertagna De Marchi,Energy disaggregation using a single voltage sensor,0,2012,http://tesi.cab.unipd.it/40180/
+8,Salter,Understanding Health Changes Through the Analysis of Electricity Consumption Data,0,2015,http://etheses.whiterose.ac.uk/id/eprint/13308
+9, Mohammed,Secure and Privacy Preserving Data Collection in Smart Grid AMI Networks,0,2017,http://search.proquest.com/openview/cb09e700fe6fe38cf3e453b8b5a66779/1?pq-origsite=gscholar&cbl=18750&diss=y
+0,Balaji,Using occupancy to reduce energy consumption of buildings,0,2011,http://search.proquest.com/openview/d8e70b693fb439c02355c797d0be9e51/1?pq-origsite=gscholar&cbl=18750&diss=y
+1,Tewolde,High-Resolution Gas Metering and Nonintrusive Appliance Load Monitoring System,0,2012,http://search.proquest.com/openview/495e74ff1f97d73c66d9d1079bceca67/1?pq-origsite=gscholar&cbl=18750&diss=y
+2,"Jawurek, F Kerschbaum",Fault-tolerant privacy-preserving statistics,0,2014,https://www.google.com/patents/US8880867
+3,"Zhang, M Zhong, Z Wang, N Goddard…",Sequence-to-point learning with neural networks for nonintrusive load monitoring,0,2016,https://arxiv.org/abs/1612.09106
+4,"Laput, Y Zhang, C Harrison",Synthetic Sensors: Towards General-Purpose Sensing,0,2017,http://dl.acm.org/citation.cfm?id=3025773
+5," Frey, R Xu, A Ilic",Pervasive and Mobile Computing,0,2017,http://cocoa.ethz.ch/downloads/2017/02/2152_published_version.pdf
+6,"Tan, DE Phillips, MM Moazzami, G Xing, J Chen",Unsupervised Residential Power Usage Monitoring using a Wireless Sensor Network,0,0,https://www.researchgate.net/profile/Rui_Tan7/publication/316350677_A_Unsupervised_Residential_Power_Usage_Monitoring_using_a_Wireless_Sensor_Network/links/58faf9e44585152edecf0223/A-Unsupervised-Residential-Power-Usage-Monitoring-using-a-Wireless-Sensor-Network.pdf
+7,Shojae,EMTP-based load disaggregation at feeder levels,0,2015,https://open.library.ubc.ca/cIRcle/collections/24/24/items/1.0166755
+8,"Gabaldon, R Molina, A Mari",Residential end-uses disaggregation and demand response evaluation using integral transforms,0,2017,http://link.springer.com/article/10.1007/s40565-016-0258-8
+9, Monitoring,Measurement Challenges in Achieving Energy Monitoring Systems In Buildings,0,0,http://ws680.nist.gov/publication/get_pdf.cfm?pub_id=904372
