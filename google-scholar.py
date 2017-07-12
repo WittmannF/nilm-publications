@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
+use_proxy = False
 proxy = '212.237.36.234:3128'
 start = 440
 f_name = 'data_start_{}.csv'.format(start)
@@ -80,7 +81,7 @@ session = requests.Session()
 
 for n in range(start, n_results, 10):
     url = "https://scholar.google.com.br/scholar?start={}&hl=en&as_sdt=0,5&sciodt=0,5&cites=13659967341396885001&scipsc=".format(n)
-    page = session.get(url, proxies=proxies)
+    page = session.get(url, proxies=proxies) if use_proxy else session.get(url)
     c = page.content
     
     if 'not a robot' in c:
